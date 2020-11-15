@@ -1,6 +1,6 @@
 ---
 created: 2020-11-14T22:15:35-05:00
-modified: 2020-11-14T22:26:06-05:00
+modified: 2020-11-14T22:27:53-05:00
 ---
 
 # seamus setting up a page for Tim pool days
@@ -22,3 +22,17 @@ I feel like $15/hr is fair, and while I sometimes feel like I don't accomplish m
 
 yet things like that happen alot, and I know I'm not in your dime
 this work is complicated and I am trying to be honest and transparent
+
+
+
+
+that being said
+I think I could set you up with like a donate link per instance of timpoolShow
+
+so you could track which days, got you paid
+that's not hard
+
+
+
+email thing isn't hard either, 
+talk to me brother
