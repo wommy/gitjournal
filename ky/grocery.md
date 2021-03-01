@@ -1,7 +1,7 @@
 ---
 created: 2021-02-28T18:04:00-06:00
 type: Checklist
-modified: 2021-02-28T19:45:59-06:00
+modified: 2021-02-28T19:46:52-06:00
 ---
 
 # grocery
@@ -16,3 +16,5 @@ modified: 2021-02-28T19:45:59-06:00
 - [ ] avo
 - [ ] bacon
 - [ ] peanut butter
+- [ ] swiffer wet pads
+- [ ] butter unsalt
