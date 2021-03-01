@@ -1,7 +1,7 @@
 ---
 created: 2021-02-28T18:07:42-06:00
 type: Checklist
-modified: 2021-02-28T18:08:40-06:00
+modified: 2021-02-28T19:47:11-06:00
 ---
 
 # ky todo
@@ -9,3 +9,4 @@ modified: 2021-02-28T18:08:40-06:00
 - [ ] truck
 - [ ] chairs
 - [ ] Costco
+- [ ] homegoods
