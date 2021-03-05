@@ -1,12 +1,12 @@
 ---
-created: 2020-11-17T13:03:22-05:00
-modified: 2020-11-17T13:05:59-05:00
+created: 2020-11-17T12:03:22-06:00
+modified: 2021-03-05T06:31:27-06:00
 type: Checklist
 ---
 
 # chicago this weekend
 
-- [ ] keys
-- [ ] buy ticket
-- [ ] raspi
-- [ ] bong 4 jack
+- [x] keys
+- [x] buy ticket
+- [x] raspi
+- [x] bong 4 jack
